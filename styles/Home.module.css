@@ -127,3 +127,19 @@
     filter: invert(1);
   }
 }
+.inputBox{
+  width: 250px;
+  height: 30px;
+  margin: 5px;
+}
+.button{
+  margin: 3px;
+  width: fit-content;
+  background-color: burlywood;
+  font-weight: 700;
+  border-radius: 8px;
+}
+
+.tableBorder {
+  border: 1px solid;
+}
